@@ -17,4 +17,3 @@ then hit enter.
 The server will say goodbye and close the connection waiting for a
 new client to connect.
 
-For any questions, let me know at kennardboykin@my.unt.edu
